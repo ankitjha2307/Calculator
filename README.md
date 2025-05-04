@@ -1,1 +1,1 @@
-[Link] : (ankit-calculator-072.netlify.app)
+[link](ankit-calculator-072.netlify.app)
